@@ -1,0 +1,45 @@
+D:\Erin\Desktop\IGME105\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.csproj.AssemblyReference.cache
+D:\Erin\Desktop\IGME105\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.GeneratedMSBuildEditorConfig.editorconfig
+D:\Erin\Desktop\IGME105\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.AssemblyInfoInputs.cache
+D:\Erin\Desktop\IGME105\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.AssemblyInfo.cs
+D:\Erin\Desktop\IGME105\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.csproj.CoreCompileInputs.cache
+D:\Erin\Desktop\IGME105\CustomList_STARTER\bin\Debug\net6.0\CustomList_STARTER.exe
+D:\Erin\Desktop\IGME105\CustomList_STARTER\bin\Debug\net6.0\CustomList_STARTER.deps.json
+D:\Erin\Desktop\IGME105\CustomList_STARTER\bin\Debug\net6.0\CustomList_STARTER.runtimeconfig.json
+D:\Erin\Desktop\IGME105\CustomList_STARTER\bin\Debug\net6.0\CustomList_STARTER.dll
+D:\Erin\Desktop\IGME105\CustomList_STARTER\bin\Debug\net6.0\CustomList_STARTER.pdb
+D:\Erin\Desktop\IGME105\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.dll
+D:\Erin\Desktop\IGME105\CustomList_STARTER\obj\Debug\net6.0\refint\CustomList_STARTER.dll
+D:\Erin\Desktop\IGME105\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.pdb
+D:\Erin\Desktop\IGME105\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.genruntimeconfig.cache
+D:\Erin\Desktop\IGME105\CustomList_STARTER\obj\Debug\net6.0\ref\CustomList_STARTER.dll
+D:\Erin\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.csproj.AssemblyReference.cache
+D:\Erin\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.GeneratedMSBuildEditorConfig.editorconfig
+D:\Erin\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.AssemblyInfoInputs.cache
+D:\Erin\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.AssemblyInfo.cs
+D:\Erin\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.csproj.CoreCompileInputs.cache
+D:\Erin\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.dll
+D:\Erin\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\refint\CustomList_STARTER.dll
+D:\Erin\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.pdb
+D:\Erin\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\bin\Debug\net6.0\CustomList_STARTER.exe
+D:\Erin\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\bin\Debug\net6.0\CustomList_STARTER.deps.json
+D:\Erin\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\bin\Debug\net6.0\CustomList_STARTER.runtimeconfig.json
+D:\Erin\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\bin\Debug\net6.0\CustomList_STARTER.dll
+D:\Erin\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\bin\Debug\net6.0\CustomList_STARTER.pdb
+D:\Erin\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.genruntimeconfig.cache
+D:\Erin\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\ref\CustomList_STARTER.dll
+C:\Users\edcigm\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\bin\Debug\net6.0\CustomList_STARTER.exe
+C:\Users\edcigm\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\bin\Debug\net6.0\CustomList_STARTER.deps.json
+C:\Users\edcigm\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\bin\Debug\net6.0\CustomList_STARTER.runtimeconfig.json
+C:\Users\edcigm\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\bin\Debug\net6.0\CustomList_STARTER.dll
+C:\Users\edcigm\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\bin\Debug\net6.0\CustomList_STARTER.pdb
+C:\Users\edcigm\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.csproj.AssemblyReference.cache
+C:\Users\edcigm\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edcigm\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.AssemblyInfoInputs.cache
+C:\Users\edcigm\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.AssemblyInfo.cs
+C:\Users\edcigm\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.csproj.CoreCompileInputs.cache
+C:\Users\edcigm\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.dll
+C:\Users\edcigm\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\refint\CustomList_STARTER.dll
+C:\Users\edcigm\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.pdb
+C:\Users\edcigm\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\CustomList_STARTER.genruntimeconfig.cache
+C:\Users\edcigm\Dropbox\106 Regular - Spring 2023\Lectures\Week 7 - Group Git, Indexers, Dictionaries, Events\Day 1 - Group Git, Indexers, Generics\CustomList_STARTER\obj\Debug\net6.0\ref\CustomList_STARTER.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CustomList_STARTER/1.0.0": {
+        "runtime": {
+          "CustomList_STARTER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomList_STARTER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
