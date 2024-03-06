@@ -25,8 +25,11 @@ namespace CustomList_STARTER
         // * list's capacity?                               *
         // **************************************************
         // ANSWER: 
-        //
-        //
+        // Because the capacity is derectly related to the size
+        // of the array which holds the elements of the list.
+        // The capacity of the list can be determined and accessed
+        // by Length property.
+        
 
 
         // --------------------------------------------------------------------
@@ -39,8 +42,11 @@ namespace CustomList_STARTER
         // * Why not include a set?                         *
         // **************************************************
         // ANSWER: 
-        //
-        //
+        // The count property represents the number of elements
+        // currently stored in the list, which should be only
+        // modifiled by Add or Remove method. If there's a set,
+        // may cause some index error.
+        
 
         /// <summary>
         /// Returns the current amount of data in the list.
@@ -66,8 +72,10 @@ namespace CustomList_STARTER
         // * the data array?                                *
         // **************************************************
         // ANSWER: 
-        //
-        //
+        // If there's such a property, it allowed the change
+        // of array from external members, which may cause some
+        // issues like data lose.
+        
 
         /*
         // NOPE! Don't do this! Included simply to show what NOT to do.
