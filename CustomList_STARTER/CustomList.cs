@@ -10,13 +10,13 @@ namespace CustomList_STARTER
     /// <summary>
     /// A list of doubles with custom-written methods.
     /// </summary>
-    internal class CustomList
+    internal class CustomList<T>
     {
         // --------------------------------------------------------------------
         // Fields of the class
         // --------------------------------------------------------------------
 
-        private double[] data;      // Underlying array that holds all list data
+        private T[] data;      // Underlying array that holds all list data
         private int count;          // Size of the list
 
         // **************************************************
@@ -88,7 +88,8 @@ namespace CustomList_STARTER
         /// </summary>
         public CustomList()
         {
-            data = new double[4];
+            data = new T[4];
+            count = 4;
         }
 
 
@@ -98,7 +99,8 @@ namespace CustomList_STARTER
         /// <param name="listSize">Initial size of the list.</param>
         public CustomList(int listSize)
         {
-            data = new double[listSize];
+            data = new T[listSize];
+            count = listSize;
         }
 
 
@@ -110,7 +112,7 @@ namespace CustomList_STARTER
         /// Add new data to the list.
         /// </summary>
         /// <param name="item">Item to add to the next available spot.</param>
-        public void Add(double item)
+        public void Add(T item)
         {
             // **************************************************
             // * Comment this code.                             *
@@ -152,7 +154,7 @@ namespace CustomList_STARTER
             // * WHAT does it do and, more importantly,         *
             // * WHY is it happening?                           *
             // **************************************************
-            double[] largerCopy = new double[data.Length * 2];
+            T[] largerCopy = new T[data.Length * 2];
 
             for (int i = 0; i < data.Length; i++)
             {
@@ -169,7 +171,7 @@ namespace CustomList_STARTER
         /// <param name="index">Integer index between 0 and the list's count.</param>
         /// <returns>Data at a specified index.</returns>
         /// <exception cref="Exception">Thrown exception when the index is out of range.</exception>
-        public double GetData(int index)
+        public T GetData(int index)
         {
             // **************************************************
             // * Comment this code.                             *
@@ -208,7 +210,7 @@ namespace CustomList_STARTER
         /// <param name="index">Integer index between 0 and the lists's count.</param>
         /// <param name="newValue">Value to insert at the index.</param>
         /// <exception cref="IndexOutOfRangeException">Thrown exception when the index is out of range.</exception>
-        public void SetData(int index, double newValue)
+        public void SetData(int index, T newValue)
         {
             // **************************************************
             // * Comment this code.                             *
