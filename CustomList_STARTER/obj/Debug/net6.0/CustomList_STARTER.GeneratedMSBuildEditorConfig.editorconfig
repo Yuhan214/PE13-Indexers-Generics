@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CustomList_STARTER
-build_property.ProjectDir = D:\Profiles\rmm1242\Source\Repos\PE13-Indexers-Generics\CustomList_STARTER\
+build_property.ProjectDir = C:\Users\lvgae\OneDrive\桌面\PE13-Indexers-Generics\CustomList_STARTER\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

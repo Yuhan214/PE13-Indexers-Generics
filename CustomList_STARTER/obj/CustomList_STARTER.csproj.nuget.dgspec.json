@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Profiles\\rmm1242\\Source\\Repos\\PE13-Indexers-Generics\\CustomList_STARTER\\CustomList_STARTER.csproj": {}
+    "C:\\Users\\lvgae\\OneDrive\\桌面\\PE13-Indexers-Generics\\CustomList_STARTER\\CustomList_STARTER.csproj": {}
   },
   "projects": {
-    "D:\\Profiles\\rmm1242\\Source\\Repos\\PE13-Indexers-Generics\\CustomList_STARTER\\CustomList_STARTER.csproj": {
+    "C:\\Users\\lvgae\\OneDrive\\桌面\\PE13-Indexers-Generics\\CustomList_STARTER\\CustomList_STARTER.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Profiles\\rmm1242\\Source\\Repos\\PE13-Indexers-Generics\\CustomList_STARTER\\CustomList_STARTER.csproj",
+        "projectUniqueName": "C:\\Users\\lvgae\\OneDrive\\桌面\\PE13-Indexers-Generics\\CustomList_STARTER\\CustomList_STARTER.csproj",
         "projectName": "CustomList_STARTER",
-        "projectPath": "D:\\Profiles\\rmm1242\\Source\\Repos\\PE13-Indexers-Generics\\CustomList_STARTER\\CustomList_STARTER.csproj",
-        "packagesPath": "D:\\Profiles\\rmm1242\\.nuget\\packages\\",
-        "outputPath": "D:\\Profiles\\rmm1242\\Source\\Repos\\PE13-Indexers-Generics\\CustomList_STARTER\\obj\\",
+        "projectPath": "C:\\Users\\lvgae\\OneDrive\\桌面\\PE13-Indexers-Generics\\CustomList_STARTER\\CustomList_STARTER.csproj",
+        "packagesPath": "C:\\Users\\lvgae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lvgae\\OneDrive\\桌面\\PE13-Indexers-Generics\\CustomList_STARTER\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "Z:\\IGMProfile\\AppData\\NuGet\\NuGet.Config",
+          "C:\\Users\\lvgae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
